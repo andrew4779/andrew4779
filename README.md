@@ -1,7 +1,8 @@
 ## Hi there! i'm Andrew kimani 👨‍💻
 
 - 💻 Full Stack Developer
-- 🎓 Computer science student
+- 🎓 IT student at Zetech
+- 🎓 Computer science student at Moringa school.
 
  <div>
   <a href="https://github.com/andrew4779">
