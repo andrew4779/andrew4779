@@ -2,7 +2,7 @@
 
 - 💻 Full Stack Developer
 - 🎓 IT student at Zetech
-- 🎓 Computer science student at Moringa school.
+- 🎓 Moringa school Graduate.
 
  <div>
   <a href="https://github.com/andrew4779">
