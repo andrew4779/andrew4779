@@ -49,9 +49,9 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <details>
  <summary>📈 My Github Stats...</summary>
     <div>
-      <a href="https://github.com/andrew4779">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrew4779&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew4779&layout=compact&langs_count=7&theme=dracula"/>
+     <p align="center"> 
+    <img align="Center" src="https://github-readme-stats.vercel.app/api?username=andrew4779&show_icons=true&theme=dracula" alt="andrew-kimani" />
+  </p>
     </div>
   </details>
  </hr>
