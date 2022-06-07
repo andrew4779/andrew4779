@@ -61,7 +61,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <details>
   <summary>📈 My Github Streak & contribution...</summary>
   <p align="center"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew4779&theme=dracula&layout=compact)" alt="andrew-kimani" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew4779&theme=dark&layout=compact)" alt="andrew-kimani" />
   </p>
     </details>
  </hr>
