@@ -40,14 +40,14 @@ https://github.com/sachuverma/DataStructures-Algorithms
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Hii, I'm [Pawan Gupta](https://www.instagram.com/notyourpawan/), a passionate self-taught software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hii, I'm [Andrew kimani](https://www.instagram.com/notyourpawan/), a passionate Software developer from kenya.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and a Competitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
 
 
   
-- 💼 Any freelance work? do reach📫, [email](mailto:guptapawanro2017@gmail.com) :)
+- 💼 Any freelance work? do reach📫, [email](mailto:andrewkimani02@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 
@@ -69,27 +69,16 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/mrpawan-gupta/blob/main/code.gif" width="500" height="320" />
 
 
-📊 **This week I spent my time on: ✨✨**
-<!--START_SECTION:waka-->
-
-```text
-C++      10 hrs 32 mins  ███████████████████████▒░   93.63 %
-Text     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Python   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-```
-
-<!--END_SECTION:waka-->
 
 **Something I Truly Believe:- **
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan)</blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Andrew kimania❤✨ (@notyourpawan)</blockquote> 
 
 <div>
 <hr>
  <details>
  <summary>📈 My Github Stats...</summary>
   <p align="center"> 
-    <img align="Center" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=dark" alt="mrpawan-gupta" />
+    <img align="Center" src="https://github-readme-stats.vercel.app/api?username=andrew4779&show_icons=true&theme=dark" alt="andrew-kimani" />
   </p>
   </details>
  </hr>
@@ -99,7 +88,7 @@ Other    5 mins          ▒░░░░░░░░░░░░░░░░░�
  <details>
   <summary>📈 My Github Streak & contribution...</summary>
   <p align="center"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta&theme=dark&layout=compact)" alt="mrpawan-gupta" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew4779a&theme=dark&layout=compact)" alt="mrpawan-gupta" />
   </p>
     </details>
  </hr>
