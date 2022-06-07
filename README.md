@@ -1,5 +1,4 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there! i'm Andrew kimani :male-technologist:
- !! ⚡⚡
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there! i'm Andrew kimani !! ⚡⚡
 <a href="https://www.instagram.com/masaneii/">
   <img align="left" alt="Pawan's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
