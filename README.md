@@ -1,20 +1,3 @@
-
-<!--
-**mrpawan-gupta/mrpawan-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/skjha1/Data-Structure-Algorithm-Programs
-https://github.com/sachuverma/DataStructures-Algorithms
--->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello Visitor's!! ⚡⚡
 <a href="https://www.instagram.com/notyourpawan/">
   <img align="left" alt="Pawan's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
@@ -34,7 +17,6 @@ https://github.com/sachuverma/DataStructures-Algorithms
   <img align="left" alt="Pawan's CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mrpawan-gupta.mrpawan-gupta)
 
 <br />
 
@@ -71,7 +53,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 
 
 **Something I Truly Believe:- **
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Andrew kimania❤✨ (@notyourpawan)</blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Andrew kimani❤✨ (@masaneii)</blockquote> 
 
 <div>
 <hr>
@@ -88,18 +70,13 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <details>
   <summary>📈 My Github Streak & contribution...</summary>
   <p align="center"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew4779a&theme=dark&layout=compact)" alt="mrpawan-gupta" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew4779&theme=dark&layout=compact)" alt="andrew-kimani" />
   </p>
     </details>
  </hr>
  </div>
  <div>
  <hr>
-  <details>
-  <summary>�🔭 Languages Used by me :- </summary>
-  <p align="center"> 
-    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrpawan_gupta/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
-  </p>
-  </detail>
+
  </hr></div>
 
