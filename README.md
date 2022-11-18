@@ -39,6 +39,8 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 
  <img align="right" alt="GIF" src="https://github.com/andrew4779/andrew4779/blob/main/code.gif" width="500" height="320" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew4779y&label=Profile%20views&color=0e75b6&style=flat" alt="andrew4779" " /> </p>
+
 
 
 **Something I Truly Believe:- **
