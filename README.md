@@ -41,7 +41,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew4779y&label=Profile%20views&color=0e75b6&style=flat" alt="andrew4779" " /> </p>
 
-
+<script>!function(e,t,a){var c=e.head||e.getElementsByTagName("head")[0],n=e.createElement("script");n.async=!0,n.defer=!0, n.type="text/javascript",n.src=t+"/static/js/widget.js?config="+JSON.stringify(a),c.appendChild(n)}(document,"https://app.engati.com",{bot_key:"9440da7c8ad44a3b",welcome_msg:true,branding_key:"default",server:"https://app.engati.com",e:"p" });</script>
 
 **Something I Truly Believe:- **
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Andrew kimani❤✨ (@masaneii)</blockquote> 
