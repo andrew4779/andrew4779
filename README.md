@@ -42,7 +42,6 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew4779y&label=Profile%20views&color=0e75b6&style=flat" alt="andrew4779" " /> </p>
 
 
-
 **Something I Truly Believe:- **
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Andrew kimani❤✨ (@masaneii)</blockquote> 
 
@@ -72,4 +71,3 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
  <hr>
 
  </hr></div>
-
