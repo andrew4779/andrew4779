@@ -24,7 +24,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
   
 - 💼 Any freelance work? do reach📫, [email](mailto:andrewkimani02@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-
+https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**Languages and Tools:** 
 
