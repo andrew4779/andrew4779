@@ -24,10 +24,12 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
   
 - 💼 Any freelance work? do reach📫, [email](mailto:andrewkimani02@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-<div>
-<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png"width="80"
 
+<a href="https://ko-fi.com/s/709ec191c7"> 
+<div class="image">
+<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="80" height="200" alt=""> 
 </div>
+</a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**Languages and Tools:** 
 
