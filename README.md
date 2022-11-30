@@ -27,7 +27,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 
 <a href="https://ko-fi.com/s/709ec191c7"> 
 <div class="image">
-<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="80" height="200" alt=""> 
+<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="80" alt=""> 
 </div>
 </a>
 
