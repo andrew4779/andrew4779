@@ -2,8 +2,8 @@
 <a href="https://www.instagram.com/masaneii/">
   <img align="left" alt="Pawan's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
-<a href="https://twitter.com/Andrew75643753">
-  <img align="left" alt="Pawan Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/masaneii">
+  <img align="left" alt="Pawan Gupta | Twitter" width="22px" src="<i class="lni lni-twitter-original"></i>" />
 </a>
 <a href="https://www.linkedin.com/in/drew-kimani/">
   <img align="left" alt="Andrew's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
