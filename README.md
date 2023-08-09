@@ -19,7 +19,6 @@ Hii, I'm [Andrew kimani](https://www.instagram.com/masaneii/), a passionate Soft
 
 I am also an open-source enthusiast and a Competitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
-
   
 - 💼 Any freelance work? do reach📫, [email](mailto:andrewkimani02@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
